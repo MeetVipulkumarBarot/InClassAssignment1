@@ -1,0 +1,15 @@
+/* 
+    Meet barot 8908602
+*/
+
+body{
+    font: normal normal normal 16px arial; 
+    width: 100vw;
+    height: 100vh;
+    background-color: hsla(278, 50%, 80%, 1);   
+}
+
+h2{
+    font-size: 2rem; /*will be 24 pexels*/  
+    color: #f22;
+}
