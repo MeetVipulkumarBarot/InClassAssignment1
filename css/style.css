@@ -13,3 +13,48 @@ h2{
     font-size: 2rem; /*will be 24 pexels*/  
     color: #f22;
 }
+
+header{
+    background-color: hsl(71, 89%, 50%);
+}
+
+main{
+    float: left;
+    width: 65vw;
+    height: 70vh;
+    background-color: hsl(200, 80%, 90%);
+}
+
+aside{
+    width: 25vw;
+    height: 70vh;
+    float: right;
+    background-color: hsl(19, 56%, 75%);
+}
+
+footer{
+    background-color: hsl(357, 79%, 60%);
+    clear: both;
+}
+
+.structural{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+#para1{
+    color: rgb(30, 90, 173);
+}
+
+#para2{
+    color: rgb(148, 10, 228);
+}
+
+a:hover{
+    color: #00f;
+}
+
+footer p{
+    font-size: 0.75em;
+}
